@@ -126,5 +126,15 @@ a.menu-logo{
     font-weight: normal;
     text-align: center;
     padding: 5px 0 10px 0;
+    top: -25px;
+    position: relative;
+}
 
+.sobre > p{
+    font-size: 1.25em;
+    line-height: 1.4em;
+    font-style: italic;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 460px;
 }
